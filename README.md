@@ -1,2 +1,1 @@
-⚠️ Note: This version uses simulated data for demonstration. 
-Upcoming updates will include real NLP-based resume parsing and matching.
+currently this version uses simulated data in the upcoming version there will be proper mechanisms for collecting resumes data.
