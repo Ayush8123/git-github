@@ -1,1 +1,1 @@
-Login button color: red
+Login button color: green
