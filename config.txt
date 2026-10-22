@@ -1,2 +1,1 @@
-Login button color: green
-Login button color: pink
+Login button color: Pink
